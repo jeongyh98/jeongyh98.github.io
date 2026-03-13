@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>VILAB, KAIST</p>
+    <p>VILAB, KAIST\n</p>
     <p>Daejeon, Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
