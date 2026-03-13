@@ -440,16 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-personal-webpage-is-now-live",
+          title: 'Personal webpage is now live!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-two-papers-accepted-at-cvpr-2026-dsert-roll-robust-multi-modal-perception-for-diverse-driving-conditions-with-stereo-event-rgb-thermal-cameras-4d-radar-and-dual-lidar-event-based-motion-deblurring-with-unpaired-data",
+          title: 'Two papers accepted at CVPR 2026! DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
