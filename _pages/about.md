@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>VILAB KAIST</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>VILAB KAIST</a>
 
 profile:
   align: right
