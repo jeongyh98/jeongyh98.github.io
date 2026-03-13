@@ -443,10 +443,12 @@ ninja.data = [{
             },},{id: "news-personal-webpage-is-now-live",
           title: 'Personal webpage is now live!',
           description: "",
-          section: "News",},{id: "news-two-papers-accepted-at-cvpr-2026-dsert-roll-robust-multi-modal-perception-for-diverse-driving-conditions-with-stereo-event-rgb-thermal-cameras-4d-radar-and-dual-lidar-event-based-motion-deblurring-with-unpaired-data",
-          title: 'Two papers accepted at CVPR 2026! DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving...',
+          section: "News",},{id: "news-two-papers-accepted-at-cvpr-2026",
+          title: 'Two papers accepted at CVPR 2026',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
