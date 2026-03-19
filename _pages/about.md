@@ -24,6 +24,14 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+education:
+  - period: "2024.03 – now"
+    degree: "Ph.D., Mechanical Engineering, KAIST"
+  - period: "2022.03 – 2024.02"
+    degree: "M.S., Mechanical Engineering, KAIST"
+  - period: "2017.03 – 2022.02"
+    degree: "B.S., Mechanical Engineering, KAIST"
 ---
 
 Hello! I am a third-year Ph.D. student in VILAB led by Prof. Kuk-Jin Yoon in the Department of Mechanical Engineering at KAIST. I work on Generative Models and Optical Flow. I aim to bridge the gap between high-fidelity scene generation and robust motion estimation, enabling models to adapt quickly to diverse and dynamic environments. Accuracy and Generalization are my core goals, and I benchmark my methods rigorously using both established datasets and real-world conditions.

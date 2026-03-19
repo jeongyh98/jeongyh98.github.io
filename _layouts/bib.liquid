@@ -190,8 +190,13 @@
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
+        {% assign award_label = entry.award_name | default: entry.award | strip %}
         <a class="award btn btn-sm z-depth-0" role="button">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
+          {%- if award_label != '' -%}
+            <i class="fa-solid fa-star"></i> {{ award_label }} <i class="fa-solid fa-star"></i>
+          {%- else -%}
+            <i class="fa-solid fa-star"></i> Highlight <i class="fa-solid fa-star"></i>
+          {%- endif -%}
         </a>
       {% endif %}
       {% if entry.abstract %}
