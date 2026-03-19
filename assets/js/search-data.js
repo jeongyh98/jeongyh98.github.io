@@ -444,7 +444,7 @@ ninja.data = [{
           title: 'Personal webpage is now live!',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-cvpr-2026",
-          title: 'Two papers accepted at CVPR 2026',
+          title: 'Two papers accepted at CVPR 2026!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
