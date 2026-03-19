@@ -50,20 +50,14 @@ layout: default
 
     <!-- Education -->
     {% if page.education and page.education.size > 0 %}
-      <h2>Education</h2>
+      <h2>
+        <a href="{{ '/cv/' | relative_url }}" style="color: inherit">Education</a>
+      </h2>
       <div class="education">
         {% for edu in page.education %}
           <p>{{ edu.period }} · {{ edu.degree }}</p>
         {% endfor %}
       </div>
-    {% endif %}
-
-    <!-- Latest posts -->
-    {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
