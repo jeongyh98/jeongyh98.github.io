@@ -1,4 +1,4 @@
-{% assign research_projects = site.projects | where: 'category', 'research' | sort: 'importance' %}
+{% assign research_projects = site.projects | where: 'category', 'research' | sort: 'start_sort' | reverse %}
 
 <div class="selected-projects">
   <ul>
