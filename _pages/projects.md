@@ -7,4 +7,4 @@ nav: true
 nav_order: 3
 ---
 
-{% include selected_projects.liquid %}
+{% include projects_full.liquid %}
