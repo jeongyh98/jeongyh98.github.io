@@ -8,14 +8,6 @@
   margin-top: 0;
   margin-bottom: 0;
 
-  ol.bibliography {
-    li {
-      &:last-child {
-        margin-bottom: 0;
-      }
-    }
-  }
-
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -44,9 +36,18 @@
     list-style: none;
     padding: 0;
     margin-top: 0;
+    margin-bottom: 0;
 
     li {
       margin-bottom: 1rem;
+
+      &:first-child {
+        margin-top: 0;
+      }
+
+      &:last-child {
+        margin-bottom: 0;
+      }
 
       .preview {
         display: inline-block;

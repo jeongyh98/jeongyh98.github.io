@@ -82,6 +82,15 @@ ul.task-list input[type="checkbox"] {
   margin-top: 0;
   margin-bottom: 0;
 
+  > * {
+    &:first-child {
+      margin-top: 0;
+    }
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
   table {
     margin-bottom: 0;
   }
@@ -101,6 +110,10 @@ ul.task-list input[type="checkbox"] {
 
   p {
     margin-bottom: 0.5rem;
+
+    &:first-child {
+      margin-top: 0;
+    }
 
     &:last-child {
       margin-bottom: 0;
