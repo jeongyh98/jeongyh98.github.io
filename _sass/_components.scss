@@ -95,6 +95,15 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 0;
   }
 
+  tr {
+    &:last-child {
+      td,
+      th {
+        padding-bottom: 0;
+      }
+    }
+  }
+
   td,
   th,
   p {
