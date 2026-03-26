@@ -9,4 +9,4 @@ related_posts: false
 Two papers accepted at CVPR 2026!
 
 - Event-based Motion Deblurring with Unpaired Data
-- MM-Drive: Multi-Modal Dataset and Benchmark for Diverse Driving Scenarios with Stereo Event-RGB-Thermal Cameras, LiDAR, and 4D Radar
+- DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR
