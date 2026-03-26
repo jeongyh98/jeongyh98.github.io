@@ -13,6 +13,7 @@ profile:
     <p>🐙 <a href="https://github.com/jeongyh98">github.com/jeongyh98</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_projects: true # includes a list of selected research experiences
 social: true # includes social icons at the bottom of the page
 
 announcements:

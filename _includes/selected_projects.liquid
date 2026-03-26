@@ -1,0 +1,15 @@
+{% assign research_projects = site.projects | where: 'category', 'research' | sort: 'importance' %}
+
+<div class="selected-projects">
+  <ul>
+    {% for project in research_projects %}
+      <li>
+        <strong>{{ project.role }}</strong>
+        <span class="selected-project-period">{{ project.period }}</span><br>
+        {{ project.title -}}
+        <br>
+        Funded by {{ project.funder }}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

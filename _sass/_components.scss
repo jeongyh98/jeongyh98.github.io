@@ -137,6 +137,29 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.selected-projects {
+  margin-top: 0;
+  margin-bottom: 0;
+
+  ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 1.2rem;
+  }
+
+  li {
+    margin-bottom: 1rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .selected-project-period {
+    float: right;
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
