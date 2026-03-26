@@ -4,11 +4,8 @@
   <ul>
     {% for project in research_projects %}
       <li>
-        <strong>{{ project.role }}</strong>
-        <span class="selected-project-period">{{ project.period }}</span><br>
-        {{ project.title -}}
-        <br>
-        Funded by {{ project.funder }}
+        <strong>{{ project.title }}</strong>
+        <span class="selected-project-period">{{ project.period }}</span>
       </li>
     {% endfor %}
   </ul>
