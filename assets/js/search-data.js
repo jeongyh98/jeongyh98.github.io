@@ -420,24 +420,24 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-development-of-data-augmentation-and-sensor-fusion-technologies-for-robust-autonomous-driving",
+          title: 'Development of Data Augmentation and Sensor Fusion Technologies for Robust Autonomous Driving',
+          description: "Project Leader · December 2024 – December 2025 · Funded by 42DOT",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-computer-vision-research-based-on-multimodal-cameras-for-robust-autonomous-driving",
+          title: 'Computer Vision Research Based on Multimodal Cameras for Robust Autonomous Driving',
+          description: "Project Member · March 2022 – February 2026 · Funded by the Korea Government (MSIT)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-development-of-a-humanoid-robot-pilot-based-on-natural-language-processing-knowledge-base",
+          title: 'Development of a Humanoid Robot Pilot Based on Natural Language Processing Knowledge Base...',
+          description: "Project Member · March 2022 – February 2024 · Funded by Agency for Defense Development (ADD)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-future-mobility-testbed-development-through-it-ai-and-robotics",
+          title: 'Future Mobility Testbed Development through IT, AI, and Robotics',
+          description: "Project Member · March 2022 – January 2023 · Funded by KAIST Institute",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
