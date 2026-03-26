@@ -6,6 +6,15 @@
 
 .publications {
   margin-top: 0;
+  margin-bottom: 0;
+
+  ol.bibliography {
+    li {
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
 
   h1 {
     color: var(--global-theme-color);

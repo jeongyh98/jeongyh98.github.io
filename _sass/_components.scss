@@ -81,11 +81,27 @@ ul.task-list input[type="checkbox"] {
 .news {
   margin-top: 0;
   margin-bottom: 0;
+
+  td,
+  th,
+  p {
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
 }
 
 .education {
   margin-top: 0;
   margin-bottom: 0;
+
+  p {
+    margin-bottom: 0.5rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
 }
 
 @media (min-width: 576px) {
