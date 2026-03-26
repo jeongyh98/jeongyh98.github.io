@@ -96,6 +96,13 @@ ul.task-list input[type="checkbox"] {
   }
 
   tr {
+    &:first-child {
+      td,
+      th {
+        padding-top: 0;
+      }
+    }
+
     &:last-child {
       td,
       th {
