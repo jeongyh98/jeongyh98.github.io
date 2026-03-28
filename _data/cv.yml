@@ -1,189 +1,186 @@
 cv:
   name: Yuhwan Jeong
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  label: PhD candidate in KAIST
+  email: jeongyh98@kaist.ac.kr
+  phone: +82-10-9236-9417
+  location: Daejeon, South Korea
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  summary: "Advisor: Kuk-Jin Yoon"
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 291 Daehak-ro, Yuseong-gu
+    city: Daejeon
+    postalCode: "34141"
+    countryCode: KR
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Korea Advanced Institute of Science and Technology (KAIST)
+        location: Daejeon, South Korea
+        area: Mechanical Engineering
+        studyType: Ph.D. Candidate
+        start_date: 2024
+        end_date: Present
         highlights:
-          - Description 1.
-          - Description 2.
+          - "GPA: 3.89/4.3"
+          - "Advisor: Kuk-Jin Yoon"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Korea Advanced Institute of Science and Technology (KAIST)
+        location: Daejeon, South Korea
+        area: Mechanical Engineering
+        studyType: M.S.
+        start_date: 2022
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - "GPA: 4.00/4.3"
+          - "Advisor: Kuk-Jin Yoon"
+
+      - institution: Korea Advanced Institute of Science and Technology (KAIST)
+        location: Daejeon, South Korea
+        area: Mechanical Engineering
+        studyType: B.S.
+        start_date: 2017
+        end_date: 2022
+        highlights:
+          - "GPA: 3.75/4.3"
+
+      - institution: Gyeonggibuk Science High School
+        location: Uijeongbu, South Korea
+        studyType: Graduation
+        start_date: 2014
+        end_date: 2017
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Inbody
+        position: Co-op KAIST Intern
+        location: Seoul, South Korea
+        start_date: 2020
+        end_date: 2021
         highlights:
-          - Relativity
-          - Description 2.
+          - Human skeleton prediction using deep learning-based vision models
+          - Motion estimation from camera data
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
+      - company: KAIST Times
+        position: Photo Journalist & Associate Editor
+        location: Daejeon, South Korea
+        start_date: 2017
+        end_date: 2020
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Computer Vision and Machine Learning
+        keywords:
+          - Optical Flow
+          - Video Diffusion Models
+          - Novel Sensors (Event Camera, LiDAR, RADAR)
+          - Image Restoration & Video Restoration
+          - Multi-Agent Reinforcement Learning
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Publications:
+      - title: Event-based Motion Deblurring with Unpaired Data
+        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+        releaseDate: 2026
+        summary: "Hoonhee Cho*, Yuhwan Jeong*, and Kuk-Jin Yoon"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - title: DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR
+        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+        releaseDate: 2026
+        summary: "Hoonhee Cho*, Jae-Young Kang*, Yuhwan Jeong*, Yunseo Yang, Wonyoung Lee, Youngho Kim, and Kuk-Jin Yoon"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: Robust Adverse Weather Removal via Spectral-based Spatial Grouping
+        publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+        releaseDate: 2025
+        summary: "Yuhwan Jeong*, Yunseo Yang*, Youngho Yoon*, and Kuk-Jin Yoon"
+
+      - title: Learning Large Motion Estimation from Intermediate Representations with a High-Resolution Optical Flow Dataset Featuring Long-Range Dynamic Motion
+        publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+        releaseDate: 2025
+        summary: "Hoonhee Cho*, Yuhwan Jeong*, and Kuk-Jin Yoon (Highlight Paper)"
+
+      - title: Unifying Low-Resolution and High-Resolution Alignment by Event Cameras for Space-Time Video Super-Resolution
+        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+        releaseDate: 2025
+        summary: "Hoonhee Cho, Jae-Young Kang, Taewoo Kim, Yuhwan Jeong, and Kuk-Jin Yoon"
+
+      - title: A Benchmark Dataset for Event-guided Human Pose Estimation and Tracking in Extreme Conditions
+        publisher: Advances in Neural Information Processing Systems (NeurIPS)
+        releaseDate: 2024
+        summary: "Hoonhee Cho*, Taewoo Kim*, Yuhwan Jeong, and Kuk-Jin Yoon"
+
+      - title: Towards Real-world Event-guided Low-light Video Enhancement and Deblurring
+        publisher: European Conference on Computer Vision (ECCV)
+        releaseDate: 2024
+        summary: "Taewoo Kim, Jaeseok Jeong, Hoonhee Cho, Yuhwan Jeong, and Kuk-Jin Yoon"
+
+      - title: Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation
+        publisher: European Conference on Computer Vision (ECCV)
+        releaseDate: 2024
+        summary: "Yuhwan Jeong*, Hoonhee Cho*, and Kuk-Jin Yoon"
+
+      - title: TTA-EVF: Test-time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation
+        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+        releaseDate: 2024
+        summary: "Hoonhee Cho, Taewoo Kim, Yuhwan Jeong, and Kuk-Jin Yoon"
+
+      - title: Non-coaxial Event-guided Motion Deblurring with Spatial Alignment
+        publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+        releaseDate: 2023
+        summary: "Hoonhee Cho, Yuhwan Jeong, Taewoo Kim, and Kuk-Jin Yoon"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Development of Data Augmentation and Sensor Fusion Technologies for Robust Autonomous Driving
+        summary: Funded by 42DOT
+        start_date: 2024
+        end_date: 2025
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Project Leader
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Computer Vision Research Based on Multimodal Cameras for Robust Autonomous Driving
+        summary: Funded by the Korea Government (MSIT)
+        start_date: 2022
+        end_date: 2026
+        highlights:
+          - Project Member
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Development of a Humanoid Robot Pilot Based on Natural Language Processing Knowledge Base
+        summary: Funded by Agency for Defense Development (ADD)
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - Project Member
+
+      - name: Future Mobility Testbed Development through IT, AI, and Robotics
+        summary: Funded by KAIST Institute
+        start_date: 2022
+        end_date: 2023
+        highlights:
+          - Project Member
+
+    Awards:
+      - title: Lab Leader Student, Visual Intelligence Lab, KAIST
+        date: 2025
+
+      - title: Mohamed Bin Zayed International Robotics Challenge (MBZIRC) Final Team
+        date: 2022
+        url: https://www.mbzirc.com/
+
+      - title: Cum Laude, KAIST
+        date: 2022
+
+    Extracurricular Activities:
+      - bullet: "Teaching Assistant, Optimal Design (Spring 2026)"
+      - bullet: "Teaching Assistant, Introduction to Visual Intelligence (Spring 2025)"
+      - bullet: "Teaching Assistant, Autonomous Mobile System Programming (Fall 2024, Fall 2025)"
+      - bullet: "Teaching Assistant, Samsung AI Expert (August 2024)"
+      - bullet: "Teaching Assistant, Special Topics in Mechanical Engineering Practice: Programming for Mechanical Engineering Problem Solving (Spring 2024)"
+
+    Academic Services:
+      - bullet: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025"
+      - bullet: "International Conference on Computer Vision (ICCV), 2025"
+      - bullet: "Neural Information Processing Systems (NeurIPS), 2025"
+      - bullet: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
+
+    Languages:
+      - name: Korean
+        summary: First language
+      - name: English
+        summary: Professional working proficiency
