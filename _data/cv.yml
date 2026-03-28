@@ -77,52 +77,52 @@ cv:
 
     Publications:
       - title: Event-based Motion Deblurring with Unpaired Data
-        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
         releaseDate: 2026
         summary: "Hoonhee Cho*, Yuhwan Jeong*, and Kuk-Jin Yoon"
 
       - title: "DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR"
-        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
         releaseDate: 2026
         summary: "Hoonhee Cho*, Jae-Young Kang*, Yuhwan Jeong*, Yunseo Yang, Wonyoung Lee, Youngho Kim, and Kuk-Jin Yoon"
 
       - title: Robust Adverse Weather Removal via Spectral-based Spatial Grouping
-        publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+        publisher: IEEE/CVF International Conference on Computer Vision (ICCV), 2025
         releaseDate: 2025
         summary: "Yuhwan Jeong*, Yunseo Yang*, Youngho Yoon*, and Kuk-Jin Yoon"
 
       - title: Learning Large Motion Estimation from Intermediate Representations with a High-Resolution Optical Flow Dataset Featuring Long-Range Dynamic Motion
-        publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+        publisher: IEEE/CVF International Conference on Computer Vision (ICCV), 2025
         releaseDate: 2025
         summary: "Hoonhee Cho*, Yuhwan Jeong*, and Kuk-Jin Yoon (Highlight Paper)"
 
       - title: Unifying Low-Resolution and High-Resolution Alignment by Event Cameras for Space-Time Video Super-Resolution
-        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+        publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025
         releaseDate: 2025
         summary: "Hoonhee Cho, Jae-Young Kang, Taewoo Kim, Yuhwan Jeong, and Kuk-Jin Yoon"
 
       - title: A Benchmark Dataset for Event-guided Human Pose Estimation and Tracking in Extreme Conditions
-        publisher: Advances in Neural Information Processing Systems (NeurIPS)
+        publisher: Advances in Neural Information Processing Systems (NeurIPS), 2024
         releaseDate: 2024
         summary: "Hoonhee Cho*, Taewoo Kim*, Yuhwan Jeong, and Kuk-Jin Yoon"
 
       - title: Towards Real-world Event-guided Low-light Video Enhancement and Deblurring
-        publisher: European Conference on Computer Vision (ECCV)
+        publisher: European Conference on Computer Vision (ECCV), 2024
         releaseDate: 2024
         summary: "Taewoo Kim, Jaeseok Jeong, Hoonhee Cho, Yuhwan Jeong, and Kuk-Jin Yoon"
 
       - title: Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation
-        publisher: European Conference on Computer Vision (ECCV)
+        publisher: European Conference on Computer Vision (ECCV), 2024
         releaseDate: 2024
         summary: "Yuhwan Jeong*, Hoonhee Cho*, and Kuk-Jin Yoon"
 
       - title: "TTA-EVF: Test-time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation"
-        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+        publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
         releaseDate: 2024
         summary: "Hoonhee Cho, Taewoo Kim, Yuhwan Jeong, and Kuk-Jin Yoon"
 
       - title: Non-coaxial Event-guided Motion Deblurring with Spatial Alignment
-        publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+        publisher: IEEE/CVF International Conference on Computer Vision (ICCV), 2023
         releaseDate: 2023
         summary: "Hoonhee Cho, Yuhwan Jeong, Taewoo Kim, and Kuk-Jin Yoon"
 
