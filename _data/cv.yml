@@ -81,7 +81,7 @@ cv:
         releaseDate: 2026
         summary: "Hoonhee Cho*, Yuhwan Jeong*, and Kuk-Jin Yoon"
 
-      - title: DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR
+      - title: "DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR"
         publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
         releaseDate: 2026
         summary: "Hoonhee Cho*, Jae-Young Kang*, Yuhwan Jeong*, Yunseo Yang, Wonyoung Lee, Youngho Kim, and Kuk-Jin Yoon"
@@ -116,7 +116,7 @@ cv:
         releaseDate: 2024
         summary: "Yuhwan Jeong*, Hoonhee Cho*, and Kuk-Jin Yoon"
 
-      - title: TTA-EVF: Test-time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation
+      - title: "TTA-EVF: Test-time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation"
         publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
         releaseDate: 2024
         summary: "Hoonhee Cho, Taewoo Kim, Yuhwan Jeong, and Kuk-Jin Yoon"
