@@ -155,13 +155,19 @@ cv:
         highlights:
           - Project Member
 
-    Awards:
-      - title: Lab Leader Student, Visual Intelligence Lab, KAIST
-        date: 2025
+    Honors and Awards:
+      - title: Vice President of the Doctoral Programme
+        date: 2026
+        awarder: Department of Mechanical Engineering, KAIST
+
+      - title: Lab Leader Student
+        date: 2026
+        awarder: Visual Intelligence Lab, KAIST
 
       - title: Mohamed Bin Zayed International Robotics Challenge (MBZIRC) Final Team
         date: 2022
         url: https://www.mbzirc.com/
+        summary: The Mohamed Bin Zayed International Robotics Challenge (MBZIRC) aims to be one of the world’s largest and most prestigious international robotics competitions.
 
       - title: Cum Laude, KAIST
         date: 2022
