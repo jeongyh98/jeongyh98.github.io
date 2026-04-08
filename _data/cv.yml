@@ -1,19 +1,15 @@
 cv:
   name: Yuhwan Jeong
-  label: PhD candidate in KAIST
+  headline: PhD candidate in KAIST
   email: jeongyh98@kaist.ac.kr
   phone: +82-10-9236-9417
   location: Daejeon, South Korea
-  image: ""
-  summary: "Advisor: Kuk-Jin Yoon"
-
-  address:
-    street: 291 Daehak-ro, Yuseong-gu
-    city: Daejeon
-    postalCode: "34141"
-    countryCode: KR
+  photo: ""
 
   sections:
+    Summary:
+      - Advisor: Kuk-Jin Yoon
+
     Education:
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, South Korea
@@ -156,20 +152,19 @@ cv:
           - Project Member
 
     Honors and Awards:
-      - title: Vice President of the Doctoral Programme
+      - name: Vice President of the Doctoral Programme
         date: 2026
-        awarder: Department of Mechanical Engineering, KAIST
+        location: Department of Mechanical Engineering, KAIST
 
-      - title: Lab Leader Student
+      - name: Lab Leader Student
         date: 2026
-        awarder: Visual Intelligence Lab, KAIST
+        location: Visual Intelligence Lab, KAIST
 
-      - title: Mohamed Bin Zayed International Robotics Challenge (MBZIRC) Final Team
+      - name: Mohamed Bin Zayed International Robotics Challenge (MBZIRC) Final Team
         date: 2022
-        url: https://www.mbzirc.com/
-        summary: The Mohamed Bin Zayed International Robotics Challenge (MBZIRC) aims to be one of the world’s largest and most prestigious international robotics competitions.
+        summary: The Mohamed Bin Zayed International Robotics Challenge (MBZIRC) aims to be one of the world’s largest and most prestigious international robotics competitions. https://www.mbzirc.com/
 
-      - title: Cum Laude, KAIST
+      - name: Cum Laude, KAIST
         date: 2022
 
     Extracurricular Activities:
