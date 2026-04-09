@@ -406,7 +406,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-development-of-data-augmentation-and-sensor-fusion-technologies-for-robust-autonomous-driving",
+            },},{id: "news-our-paper-event-based-motion-deblurring-with-unpaired-data-has-been-selected-as-a-highlight-at-cvpr-2026",
+          title: 'Our paper “Event-based Motion Deblurring with Unpaired Data” has been selected as a...',
+          description: "",
+          section: "News",},{id: "projects-development-of-data-augmentation-and-sensor-fusion-technologies-for-robust-autonomous-driving",
           title: 'Development of Data Augmentation and Sensor Fusion Technologies for Robust Autonomous Driving',
           description: "Project Leader · December 2024 – December 2025 · Funded by 42DOT",
           section: "Projects",handler: () => {
