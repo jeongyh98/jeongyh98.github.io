@@ -409,7 +409,12 @@ ninja.data = [{
             },},{id: "news-our-paper-event-based-motion-deblurring-with-unpaired-data-has-been-selected-as-a-highlight-at-cvpr-2026",
           title: 'Our paper “Event-based Motion Deblurring with Unpaired Data” has been selected as a...',
           description: "",
-          section: "News",},{id: "projects-development-of-data-augmentation-and-sensor-fusion-technologies-for-robust-autonomous-driving",
+          section: "News",},{id: "news-one-paper-accepted-at-eccv-2026",
+          title: 'One paper accepted at ECCV 2026!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "projects-development-of-data-augmentation-and-sensor-fusion-technologies-for-robust-autonomous-driving",
           title: 'Development of Data Augmentation and Sensor Fusion Technologies for Robust Autonomous Driving',
           description: "Project Leader · December 2024 – December 2025 · Funded by 42DOT",
           section: "Projects",handler: () => {
