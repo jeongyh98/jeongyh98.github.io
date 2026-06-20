@@ -27,7 +27,7 @@ cv:
         start_date: 2022
         end_date: 2024
         highlights:
-          - "GPA: 4.00/4.3"
+          - "GPA: 3.96/4.3"
           - "Advisor: Kuk-Jin Yoon"
 
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
@@ -71,10 +71,30 @@ cv:
           - Multi-Agent Reinforcement Learning
 
     Publications:
+      - title: Zero-Shot Coordination under Partial Observability by Predicting Intention of Partner
+        publisher: Pre-print, 2026
+        releaseDate: 2026
+        summary: "Yuhwan Jeong*, Jinnyeong Yang*, Hoyong Kwon*, Minseok Kim, Jihun Kim, and Kuk-Jin Yoon"
+
+      - title: Counterfactual Discovery of Motion-Effect Circuits in Video Diffusion Transformers
+        publisher: Pre-print, 2026
+        releaseDate: 2026
+        summary: "Jegyeong Cho*, Yuhwan Jeong*, Changgyoon Oh*, and Kuk-Jin Yoon"
+
+      - title: Controllable Event-Guided Diffusion for Motion Blur Synthesis with Additional Blur-Free Data
+        publisher: Pre-print, 2026
+        releaseDate: 2026
+        summary: "Yuhwan Jeong*, Hoonhee Cho*, and Kuk-Jin Yoon"
+
+      - title: "FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model"
+        publisher: European Conference on Computer Vision (ECCV), 2026
+        releaseDate: 2026
+        summary: "Yuhwan Jeong*, Hyeonseong Kim*, Daehyun We*, Seonkyu Song*, Jinnyeong Yang*, Hyun-Kurl Jang, Youngho Yoon, and Kuk-Jin Yoon"
+
       - title: Event-based Motion Deblurring with Unpaired Data
         publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
         releaseDate: 2026
-        summary: "Hoonhee Cho*, Yuhwan Jeong*, and Kuk-Jin Yoon"
+        summary: "Hoonhee Cho*, Yuhwan Jeong*, and Kuk-Jin Yoon (Highlight Paper)"
 
       - title: "DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR"
         publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
@@ -174,10 +194,14 @@ cv:
       - bullet: "Teaching Assistant, Special Topics in Mechanical Engineering Practice: Programming for Mechanical Engineering Problem Solving (Spring 2024)"
 
     Academic Services:
-      - bullet: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025"
+      - bullet: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
+      - bullet: "Engineering Applications of Artificial Intelligence (EAAI)"
       - bullet: "International Conference on Computer Vision (ICCV), 2025"
       - bullet: "Neural Information Processing Systems (NeurIPS), 2025"
       - bullet: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
+      - bullet: "European Conference on Computer Vision (ECCV), 2026"
+      - bullet: "Neural Information Processing Systems (NeurIPS), 2026"
+      - bullet: "British Machine Vision Conference (BMVC), 2026"
 
     Languages:
       - name: Korean
