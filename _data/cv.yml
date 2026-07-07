@@ -194,14 +194,15 @@ cv:
       - bullet: "Teaching Assistant, Special Topics in Mechanical Engineering Practice: Programming for Mechanical Engineering Problem Solving (Spring 2024)"
 
     Academic Services:
-      - bullet: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"
-      - bullet: "Engineering Applications of Artificial Intelligence (EAAI)"
+      - bullet: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025"
+      - bullet: "Engineering Applications of Artificial Intelligence (EAAI), 2026"
+      - bullet: "Pattern Recognition, 2026"
       - bullet: "International Conference on Computer Vision (ICCV), 2025"
       - bullet: "Neural Information Processing Systems (NeurIPS), 2025"
       - bullet: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
       - bullet: "European Conference on Computer Vision (ECCV), 2026"
       - bullet: "Neural Information Processing Systems (NeurIPS), 2026"
-      - bullet: "British Machine Vision Conference (BMVC), 2026"
+      - bullet: "The British Machine Vision Association (BMVC), 2026"
 
     Languages:
       - name: Korean
