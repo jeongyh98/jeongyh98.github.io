@@ -40,7 +40,7 @@
             {% endif %}
 
             {% if entry.summary %}
-              <p class="ml-1 ml-md-4">{{ entry.summary }}</p>
+              <p class="ml-1 ml-md-4">{{ entry.summary | replace: 'Yuhwan Jeong', '<u>Yuhwan Jeong</u>' }}</p>
             {% endif %}
           </div>
         {% else %}
@@ -60,7 +60,7 @@
             {% endif %}
 
             {% if entry.summary %}
-              <p class="ml-1 ml-md-4">{{ entry.summary }}</p>
+              <p class="ml-1 ml-md-4">{{ entry.summary | replace: 'Yuhwan Jeong', '<u>Yuhwan Jeong</u>' }}</p>
             {% endif %}
           </div>
         {% endif %}
