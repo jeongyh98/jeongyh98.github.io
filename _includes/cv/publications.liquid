@@ -40,7 +40,7 @@
             {% endif %}
 
             {% if entry.summary %}
-              <p class="ml-1 ml-md-4">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+              <p class="ml-1 ml-md-4">{{ entry.summary }}</p>
             {% endif %}
           </div>
         {% else %}
@@ -60,7 +60,7 @@
             {% endif %}
 
             {% if entry.summary %}
-              <p class="ml-1 ml-md-4">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+              <p class="ml-1 ml-md-4">{{ entry.summary }}</p>
             {% endif %}
           </div>
         {% endif %}
