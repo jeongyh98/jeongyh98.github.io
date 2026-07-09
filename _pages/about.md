@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📧 <a href="mailto:jeongyh98@kaist.ac.kr">jeongyh98@kaist.ac.kr</a></p>
-    <p>🐙 <a href="https://github.com/jeongyh98">github.com/jeongyh98</a></p>
+    <p><i class="fa-brands fa-github"></i> <a href="https://github.com/jeongyh98">github.com/jeongyh98</a></p>
     <p><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/yuhwan-jeong-a0380132b">LinkedIn</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
