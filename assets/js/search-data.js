@@ -414,7 +414,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "projects-development-of-data-augmentation-and-sensor-fusion-technologies-for-robust-autonomous-driving",
+            },},{id: "news-one-paper-accepted-as-a-poster-at-eccv-2026-workshop-on-embodied-multimodal-reasoning-in-physical-environments-reuse-before-you-retrieve-diagnosing-headroom-and-complementarity-for-test-time-augmentation-of-embodied-multimodal-policies",
+          title: 'One paper accepted as a poster at ECCV 2026 Workshop on Embodied Multimodal...',
+          description: "",
+          section: "News",},{id: "projects-development-of-data-augmentation-and-sensor-fusion-technologies-for-robust-autonomous-driving",
           title: 'Development of Data Augmentation and Sensor Fusion Technologies for Robust Autonomous Driving',
           description: "Project Leader · December 2024 – December 2025 · Funded by 42DOT",
           section: "Projects",handler: () => {
