@@ -71,6 +71,11 @@ cv:
           - Multi-Agent Reinforcement Learning
 
     Publications:
+      - title: "Reuse Before You Retrieve: Diagnosing Headroom and Complementarity for Test-Time Augmentation of Embodied Multimodal Policies"
+        publisher: ECCV 2026 Workshop on Embodied Multimodal Reasoning in Physical Environments, 2026
+        releaseDate: 2026
+        summary: "Yuhwan Jeong and Kuk-Jin Yoon"
+
       - title: Zero-Shot Coordination under Partial Observability by Predicting Intention of Partner
         publisher: Pre-print, 2026
         releaseDate: 2026
