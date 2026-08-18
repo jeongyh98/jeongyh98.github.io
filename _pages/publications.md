@@ -15,6 +15,13 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --sort_by year --order descending %}
+<h2>Pre-prints</h2>
+{% bibliography --query @*[keywords=preprint] %}
+
+<h2>Conference Papers</h2>
+{% bibliography --query @*[keywords=conference] %}
+
+<h2>Workshop Papers</h2>
+{% bibliography --query @*[keywords=workshop] %}
 
 </div>
