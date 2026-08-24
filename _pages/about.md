@@ -33,10 +33,8 @@ education:
 research_interests:
   area: "Computer Vision and Machine Learning"
   topics:
-    - "Optical Flow"
+    - "V2A"
     - "Video Diffusion Models"
-    - "Novel Sensors (Event Camera, LiDAR, RADAR)"
-    - "Image Restoration & Video Restoration"
     - "Multi-Agent Reinforcement Learning"
 ---
 
