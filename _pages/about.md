@@ -31,7 +31,6 @@ education:
     degree: "B.S., Mechanical Engineering, KAIST"
 
 research_interests:
-  area: "Computer Vision and Machine Learning"
   topics:
     - "V2A"
     - "Video Diffusion Models"
