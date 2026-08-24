@@ -29,6 +29,15 @@ education:
     degree: "M.S., Mechanical Engineering, KAIST"
   - period: "2017.03 – 2022.02"
     degree: "B.S., Mechanical Engineering, KAIST"
+
+research_interests:
+  area: "Computer Vision and Machine Learning"
+  topics:
+    - "Optical Flow"
+    - "Video Diffusion Models"
+    - "Novel Sensors (Event Camera, LiDAR, RADAR)"
+    - "Image Restoration & Video Restoration"
+    - "Multi-Agent Reinforcement Learning"
 ---
 
 Hello! I am a third-year Ph.D. student in VILAB led by Prof. Kuk-Jin Yoon in the Department of Mechanical Engineering at KAIST. I work on Generative Models and Optical Flow. I aim to bridge the gap between high-fidelity scene generation and robust motion estimation, enabling models to adapt quickly to diverse and dynamic environments. Accuracy and Generalization are my core goals, and I benchmark my methods rigorously using both established datasets and real-world conditions.

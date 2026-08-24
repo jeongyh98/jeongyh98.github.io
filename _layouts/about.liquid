@@ -48,6 +48,27 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Research Interests -->
+    {% if page.research_interests %}
+      <h2>Research Interests</h2>
+      <div class="research-interests">
+        <p><strong>{{ page.research_interests.area }}</strong></p>
+        <ul>
+          {% for topic in page.research_interests.topics %}
+            <li>{{ topic }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
+      </h2>
+      {% include selected_papers.liquid %}
+    {% endif %}
+
     <!-- Education -->
     {% if page.education and page.education.size > 0 %}
       <h2>
@@ -58,14 +79,6 @@ layout: default
           <p>{{ edu.period }} · {{ edu.degree }}</p>
         {% endfor %}
       </div>
-    {% endif %}
-
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
     {% endif %}
 
     <!-- Selected projects -->
